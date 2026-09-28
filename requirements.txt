@@ -1,0 +1,2 @@
+This is what I want
+I want an app that will translate binary code to letters 
